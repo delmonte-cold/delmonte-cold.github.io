@@ -96,8 +96,8 @@ analytics:
 author:
   name             : "delmote-cold"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : # "I am an **amazing** person."
+  location         : "KOREA"
   email            :
   links:
     - label: "Email"
