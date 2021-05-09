@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "delmote-cold"
+  name             : "Ian Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm in **huge** data"
   location         : "Seoul, KR"
