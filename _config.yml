@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Delmonte-Cold"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "delmote-cold"
+name                     : "Ian Kim"
 description              : "An amazing website."
 url                      : "https://delmote-cold.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
