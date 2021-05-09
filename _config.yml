@@ -96,9 +96,9 @@ analytics:
 author:
   name             : "delmote-cold"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
-  location         : "KOREA"
-  email            :
+  bio              : "I'm in **huge** data"
+  location         : "Seoul, KR"
+  email            : lunar2018@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
