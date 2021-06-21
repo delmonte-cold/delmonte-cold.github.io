@@ -1,7 +1,7 @@
 ---
 layout: single_v2
 title:  "Docker 시작하기"
-tags : [R,Rstudio,Server]
+tags : [Docker,Server]
 ---
 
 ### Docker 명령어
